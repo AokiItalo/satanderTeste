@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TesteAndroid</string>
+    <string name="title_investment">Investimento</string>
+    <string name="title_contact">Contato</string>
+    <string name="indicator_image">Imagem do indicador de risco</string>
+    <string name="text_fund">Fundo</string>
+    <string name="text_on_month">No mês</string>
+    <string name="text_on_year">No ano</string>
+    <string name="text_twelve_months">12 meses</string>
+    <string name="text_download">Baixar</string>
+    <string name="cd_download_image">Download Image</string>
+    <string name="message_unavailable">Indisponível.</string>
+    <string name="text_invest">Investir</string>
+    <string name="generic_error">Houve um falha</string>
+    <string name="message_investment_done">Investimento feito!</string>
+    <string name="cd_share_image">Share image</string>
+    <string name="report">Relatório</string>
+    <string name="share_with">Compartilhar com</string>
+    <string name="text_message_sent">Mensagem enviada com sucesso :D</string>
+    <string name="text_thanks">Obrigado!</string>
+    <string name="text_send_another">Enviar nova mensagem</string>
+</resources>
